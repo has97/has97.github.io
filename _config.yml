@@ -22,7 +22,7 @@ repository               : "has97/has97.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my_photos.jpg"
   name             : ""
   pronouns         : # example: "she/her"  
   bio              : "MS Student at IIT Bombay"
