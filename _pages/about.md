@@ -7,4 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi!!, I am a research student in Computer Vision and AI, with a focus on Few-shot Learning, Open-set Recognition, and Vision-Language Models. My work explores improving domain generalization and zero-shot learning in real-world applications.
+### About Me
+I am a research student in AI and Computer Vision, specializing in Few-shot Learning, Open-set Recognition, and Vision-Language Models. My work focuses on improving domain generalization and robustness in real-world applications.
+
+### Research Interests  
+🔹 Few-shot Learning  
+🔹 Open-set Recognition  
+🔹 Vision-Language Models  
+🔹 Domain Generalization  
+🔹 Synthetic Data for AI  
