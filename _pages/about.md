@@ -19,5 +19,3 @@ I am a research student in AI and Computer Vision, specializing in Few-shot Lear
 🔹 Vision-Language Models  
 🔹 Domain Generalization  
 🔹 Synthetic Data for AI  
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8QybIRUrMc08pEF2g9tP_oYpo92q1ZtkxfrY78imgzw&cl=ffffff&w=a"></script>
